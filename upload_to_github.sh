@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Set variables
-REPO_DIR="/home/pi/Documents/MyScripts/Python-Kurs"  # Pfad zum lokalen Repository
-COMMIT_MSG="Automatischer Upload vom Raspberry Pi am $(date)"
+REPO_DIR="/Users/markusaltenburger/Documents/MyScripts/Python-Kurs"  # Pfad zum lokalen Repository
+COMMIT_MSG="Automatischer Upload vom Mac Mini am $(date)"
 
 # Wechsle ins Repository-Verzeichnis
 cd "$REPO_DIR" || { echo "Repository-Verzeichnis nicht gefunden."; exit 1; }

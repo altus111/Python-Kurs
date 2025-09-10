@@ -1,2481 +1,485 @@
-Filename: test.log, Start-Time: 2025-09-10 21:42:53
-Zeit;Land;Ort;Temperatur °C;Feuchtigkeit %;Wetterbeschreibung
-2025-09-10 21:42:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:23;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:23;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:24;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:23;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:24;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:24;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:23;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:24;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:24;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:29;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:23;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:24;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:24;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:29;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:29;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:23;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:24;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:24;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:29;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:29;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:23;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:24;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:24;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:29;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:29;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:29;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:23;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:24;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:24;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:29;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:29;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:29;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:30;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:52:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:52:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:52:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:52:59;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:52:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:00;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:05;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:06;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:06;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:11;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:12;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:12;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:17;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:17;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:17;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:17;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:18;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:18;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:23;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:23;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:23;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:23;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:24;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:24;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:53:29;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:53:29;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:53:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:53:29;US;New York City;22.06;65;Bedeckt
-2025-09-10 21:53:30;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:53:30;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:05;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:05;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:56:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:22;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:22;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:22;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:23;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:23;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:23;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:28;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:28;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:29;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:29;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:29;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:29;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:34;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:34;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:35;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:35;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:35;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:35;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:40;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:41;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:41;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:41;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:41;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:41;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:47;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:53;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:55:59;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:55:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:55:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:55:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:55:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:55:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:05;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:05;US;New York City;22.04;65;Bedeckt
-2025-09-10 21:56:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:05;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:05;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:05;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:05;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:57:05;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:05;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:57:05;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:05;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:57:05;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:05;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:57:05;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:05;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:57:05;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:11;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:05;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:57:05;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:11;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:11;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:47;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:52;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:53;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:53;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:56:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:56:58;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:56:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:56:59;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:56:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:56:59;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:04;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:05;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:05;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:05;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:05;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:57:05;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 21:57:11;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 21:57:11;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 21:57:11;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 21:57:11;US;New York City;22.07;65;Bedeckt
-2025-09-10 21:57:11;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 21:57:11;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:53;GB;London;15.65;91;Überwiegend bewölkt
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:53;GB;London;15.65;91;Überwiegend bewölkt
-2025-09-10 22:00:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:53;GB;London;15.65;91;Überwiegend bewölkt
-2025-09-10 22:00:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:53;GB;London;15.65;91;Überwiegend bewölkt
-2025-09-10 22:00:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:53;GB;London;15.65;91;Überwiegend bewölkt
-2025-09-10 22:00:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:53;GB;London;15.65;91;Überwiegend bewölkt
-2025-09-10 22:00:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:53;GB;London;15.65;91;Überwiegend bewölkt
-2025-09-10 22:00:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:46;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:46;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:47;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:47;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:47;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:47;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:52;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:53;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:53;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:53;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:53;GB;London;15.65;91;Überwiegend bewölkt
-2025-09-10 22:00:53;JP;Tokio;27.76;83;Starker Regen
-2025-09-10 22:00:58;CH;Balgach;14.15;90;Klarer Himmel
-2025-09-10 22:00:59;CH;Gams SG;13.57;88;Ein paar Wolken
-2025-09-10 22:00:59;AT;Feldkirch;13.44;88;Mäßig bewölkt
-2025-09-10 22:00:59;US;New York City;22.04;65;Bedeckt
-2025-09-10 22:00:59;GB;London;15.65;90;Überwiegend bewölkt
-2025-09-10 22:00:59;JP;Tokio;27.76;83;Starker Regen
+Filename: test.log, Start-Time: 2025-09-10 22:59:48
+Zeit,Land,Ort,Temperatur °C,Feuchtigkeit %,Wetterbeschreibung
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:55;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:55;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:55;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:55;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:55;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:55;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:55;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:55;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:55;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 23:00:00;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:55;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:55;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:55;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 23:00:00;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 23:00:00;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:55;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:55;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:55;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 23:00:00;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 23:00:00;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:00:01;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:55;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:55;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:55;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 23:00:00;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 23:00:00;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:00:01;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:00:01;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:55;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:55;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:55;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 23:00:00;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 23:00:00;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:00:01;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:00:01;US;New York City;22.64;62;Bedeckt
+2025-09-10 23:00:01;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:48;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:48;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:48;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:49;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:49;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:49;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 22:59:54;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 22:59:54;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 22:59:55;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 22:59:55;US;New York City;22.64;62;Bedeckt
+2025-09-10 22:59:55;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 22:59:55;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 23:00:00;CH;Balgach;13.37;95;Klarer Himmel
+2025-09-10 23:00:00;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:00:01;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:00:01;US;New York City;22.64;62;Bedeckt
+2025-09-10 23:00:01;GB;London;15.68;90;Überwiegend bewölkt
+2025-09-10 23:00:01;JP;Tokio;27.76;81;Leichter Regen
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:34;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:34;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:34;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:34;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:34;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:34;JP;Tokio;27.72;80;Leichter Regen
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:34;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:34;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:34;JP;Tokio;27.72;80;Leichter Regen
+2025-09-10 23:04:39;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:34;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:34;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:34;JP;Tokio;27.72;80;Leichter Regen
+2025-09-10 23:04:39;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:39;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:34;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:34;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:34;JP;Tokio;27.72;80;Leichter Regen
+2025-09-10 23:04:39;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:39;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:39;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:34;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:34;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:34;JP;Tokio;27.72;80;Leichter Regen
+2025-09-10 23:04:39;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:39;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:39;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:40;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:34;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:34;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:34;JP;Tokio;27.72;80;Leichter Regen
+2025-09-10 23:04:39;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:39;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:39;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:40;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:40;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:33;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:33;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:33;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:34;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:34;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:34;JP;Tokio;27.72;80;Leichter Regen
+2025-09-10 23:04:39;CH;Balgach;13.37;92;Klarer Himmel
+2025-09-10 23:04:39;CH;Gams SG;13.01;87;Mäßig bewölkt
+2025-09-10 23:04:39;AT;Feldkirch;12.88;87;Mäßig bewölkt
+2025-09-10 23:04:40;US;New York City;22.57;62;Bedeckt
+2025-09-10 23:04:40;GB;London;15.68;91;Überwiegend bewölkt
+2025-09-10 23:04:40;JP;Tokio;27.72;80;Leichter Regen
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:59;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:59;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:59;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:59;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:59;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:18:59;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:59;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:59;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:18:59;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:19:04;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:59;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:59;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:18:59;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:19:04;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:19:04;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:59;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:59;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:18:59;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:19:04;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:19:04;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:19:05;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:59;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:59;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:18:59;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:19:04;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:19:04;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:19:05;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:19:05;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:59;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:59;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:18:59;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:19:04;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:19:04;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:19:05;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:19:05;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:19:05;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:18:58;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:18:58;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:18:58;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:18:59;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:18:59;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:18:59;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:19:04;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:19:04;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:19:05;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:19:05;US;New York City;22.61;60;Bedeckt
+2025-09-10 23:19:05;GB;London;15.6;89;Überwiegend bewölkt
+2025-09-10 23:19:05;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:12;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:12;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:12;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:12;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:12;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:12;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:12;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:12;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:12;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:21:17;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:12;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:12;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:12;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:21:17;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:17;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:12;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:12;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:12;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:21:17;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:17;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:12;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:12;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:12;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:21:17;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:17;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:18;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:12;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:12;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:12;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:21:17;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:17;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:18;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:18;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:11;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:11;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:12;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:12;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:12;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:12;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:21:17;CH;Balgach;13.14;92;Klarer Himmel
+2025-09-10 23:21:17;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:21:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:21:18;US;New York City;22.66;60;Bedeckt
+2025-09-10 23:21:18;GB;London;15.58;89;Überwiegend bewölkt
+2025-09-10 23:21:18;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:18;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:18;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:18;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:18;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:18;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:18;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:18;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:18;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:18;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:22:23;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:18;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:18;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:18;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:22:23;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:24;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:18;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:18;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:18;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:22:23;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:24;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:24;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:18;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:18;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:18;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:22:23;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:24;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:24;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:24;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:18;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:18;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:18;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:22:23;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:24;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:24;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:24;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:24;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:17;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:18;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:18;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:18;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:18;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:18;JP;Tokio;27.72;78;Überwiegend bewölkt
+2025-09-10 23:22:23;CH;Balgach;12.63;95;Klarer Himmel
+2025-09-10 23:22:24;CH;Gams SG;13.01;88;Mäßig bewölkt
+2025-09-10 23:22:24;AT;Feldkirch;12.88;88;Mäßig bewölkt
+2025-09-10 23:22:24;US;New York City;22.67;60;Bedeckt
+2025-09-10 23:22:24;GB;London;15.51;89;Überwiegend bewölkt
+2025-09-10 23:22:24;JP;Tokio;27.72;78;Überwiegend bewölkt

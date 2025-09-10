@@ -20,20 +20,29 @@ class LogStrategy(Enum):
     FIXED_SLICES = "FixedSlices"
     ONLY_CHANGES = "OnlyChanges"
 class userInput:
-    def __init__(self, ort: str = "Balgach", language: str = "de", units: str = "metric",
-                polling_time: int = 5, mode: str = "a"):
+    def __init__(self,pfad: str = "./",file_name: str = "wetterlogger.log", ort: str = "Balgach", language: str = "de", units: str = "metric",
+                polling_time: int = 5, mode: str = "a",delimiter: str = ";", max_entries: int = 1000):
+        self._file_path = pfad
+        self._file_name = file_name
+        self._delimiter = delimiter
+        self._max_entries = max_entries
         self._ort = ort
         self._language = language
         self._units = units
         self._polling_time = polling_time
         self._mode = mode
+
     def __str__(self):
         return f'''
+            Logfile      : {self.file_name}
+            Pfad         : {self.file_path}
             Ort          : {self.ort}
             Sprache      : {self.language}
             Units        : {self.units}
             Polling-Time : {self.polling_time} sek
             Mode         : {self.mode}
+            Delimiter    : {self.delimiter}
+            Max-Einträge : {self.max_entries}
         '''
     @property
     def ort(self):
@@ -65,6 +74,30 @@ class userInput:
     @mode.setter
     def mode(self, value):
         self._mode = value
+    @property
+    def file_path(self):
+        return self._file_path
+    @file_path.setter
+    def file_path(self, value):
+        self._file_path = value
+    @property
+    def file_name(self):
+        return self._file_name
+    @file_name.setter
+    def file_name(self, value):
+        self._file_name = value
+    @property
+    def delimiter(self):
+        return self._delimiter
+    @delimiter.setter
+    def delimiter(self, value):
+        self._delimiter = value
+    @property
+    def max_entries(self):
+        return self._max_entries
+    @max_entries.setter
+    def max_entries(self, value):
+        self._max_entries = value
 
 class Logger:
     def __init__(self, file_path: str, file_name: str, append: bool = False,
@@ -100,7 +133,7 @@ class Logger:
         if os.path.exists(self.full_path):
             with open(self.full_path, 'r') as log_file:
                 lines = log_file.readlines()
-                return [line.strip() for line in lines if line.strip()]
+                return [line.strip() for line in lines if line.strip()] #ergibt eine saubere Liste ohne leere Zeilen
         else:
             print(f"Datei {self.full_path} existiert nicht.")
             return []
@@ -115,7 +148,7 @@ class Logger:
         log_file.write(header_line + "\n")
         log_file.write(title_line + "\n")
 
-    def create_title(self):
+    def _title(self):
         title = ["Zeit", "Land", "Ort", "Temperatur °C", "Feuchtigkeit %", "Wetterbeschreibung"]
         return self.delimiter.join(title)
 
@@ -125,13 +158,26 @@ class Logger:
         self.log_entries.append(entry)
 
     def write_log(self):
-        mode = 'a' if self.append else 'w'
+        
+        mode = self
         with open(self.full_path, mode) as log_file:
             if os.path.getsize(self.full_path) == 0:
                 self._write_header(log_file)
             for entry in self.log_entries:
                 log_file.write(entry + "\n")
 
+    @property
+    def delimiter(self):
+        return self._delimiter
+    @delimiter.setter 
+    def delimiter(self, value):
+        self._delimiter = value
+    @property
+    def max_entries(self):
+        return self._max_entries
+    @max_entries.setter
+    def max_entries(self, value):
+        self._max_entries = value
 
 # Absoluten Pfad zur Datei config.json ermitteln
 script_dir = os.path.dirname(os.path.abspath(__file__))  # Pfad zum aktuellen Skript
@@ -154,6 +200,19 @@ def user_input():
     userInputs = userInput()
     print("Bitte geben Sie die folgenden Parameter ein:")
     print("Drücken Sie Enter für die Vorgabewerte in eckigen Klammern")
+  
+
+    default_Filename = "wetter.log"
+    filename = input(f"Logfile Name [*{default_Filename}]:")
+    if filename == "":
+        filename = default_Filename
+    userInputs.file_name = filename
+    default_Path = "./"
+    path = input(f"Logfile Pfad [*{default_Path}]:")
+    if path == "":
+        path = default_Path
+    userInputs.file_path = path
+
     default_mode = "a"
     mode = input("Datenlogger neu oder anhaengen [n,*a]?")
     if mode == "":
@@ -189,7 +248,19 @@ def user_input():
     elif units == 'standard':
         units_letter='K'
     userInputs.units = units
-    check_if_first_run = "n"
+
+    delimiter_default = ";"
+    delimiter = input(f"Trennzeichen [*{delimiter_default},'_','-']:")
+    if delimiter == '':
+        delimiter = delimiter_default
+    userInputs.delimiter = delimiter
+
+    max_entries_default = 1000
+    max_entries = input(f"Maximale Anzahl Einträge [*{max_entries_default}]:")
+    if max_entries == '':
+        max_entries = max_entries_default
+    userInputs.max_entries = max_entries
+
     return userInputs
 def createTitle(separator):
     title = ["Zeit", "Land","Ort", "Temperatur °C", "Feuchtigkeit %", "Wetterbeschreibung"]
@@ -226,10 +297,12 @@ if __name__ == '__main__':
     userInputs = user_input()
     print(userInputs)
 
-    log = Logger("./", "test.log", append=(userInputs.mode == "a"), delimiter=";", max_entries=1000, strategy=LogStrategy.FIXED_SLICES)
+    log = Logger(userInputs.file_path, userInputs.file_name, append=(userInputs.mode), delimiter=";", max_entries=userInputs.max_entries, strategy=LogStrategy.FIXED_SLICES)
+    log.max_entries = 999
     print(log)
+    sleep(2)
     orte = ['Balgach', 'Gams', 'Feldkirch', 'New York', 'London', 'Tokio']
-    max_requests = 3
+    max_requests = 2
     counter = 0
     doloop = True
     while doloop:

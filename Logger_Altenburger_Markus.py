@@ -1,27 +1,18 @@
 #!/usr/bin/python3
+import sys
 import os
 import requests
 import json
 import urllib.parse
-import time
 from time import sleep
 from datetime import datetime
 import inspect
 import csv
 from enum import Enum
-class LogLevel(Enum):
-    DEBUG = "DEBUG"
-    INFO = "INFO"
-    WARNING = "WARNING"
-    ERROR = "ERROR"
-    CRITICAL = "CRITICAL"
-
-class LogStrategy(Enum):
-    FIXED_SLICES = "FixedSlices"
-    ONLY_CHANGES = "OnlyChanges"
+#from Wetterdaten.user_input.input_handler import userInput -> spaeter benoetigt
 class userInput:
-    def __init__(self,pfad: str = "./",file_name: str = "wetterlogger.log", ort: str = "Balgach", language: str = "de", units: str = "metric",
-                polling_time: int = 5, mode: str = "a",delimiter: str = ";", max_entries: int = 1000):
+    def __init__(self, pfad: str = "./", file_name: str = "wetterlogger.log", ort: str = "Balgach", language: str = "de", units: str = "metric",
+                 polling_time: int = 5, mode: str = "a", delimiter: str = ";", max_entries: int = 10):
         self._file_path = pfad
         self._file_name = file_name
         self._delimiter = delimiter
@@ -33,7 +24,7 @@ class userInput:
         self._mode = mode
 
     def __str__(self):
-        return f'''
+        return f"""
             Logfile      : {self.file_name}
             Pfad         : {self.file_path}
             Ort          : {self.ort}
@@ -43,75 +34,98 @@ class userInput:
             Mode         : {self.mode}
             Delimiter    : {self.delimiter}
             Max-Einträge : {self.max_entries}
-        '''
+        """
+
     @property
     def ort(self):
         return self._ort
+
     @ort.setter
     def ort(self, value):
         self._ort = value
+
     @property
     def language(self):
         return self._language
+
     @language.setter
     def language(self, value):
         self._language = value
+
     @property
     def units(self):
         return self._units
+
     @units.setter
     def units(self, value):
         self._units = value
+
     @property
     def polling_time(self):
         return self._polling_time
+
     @polling_time.setter
     def polling_time(self, value):
         self._polling_time = value
+
     @property
     def mode(self):
         return self._mode
+
     @mode.setter
     def mode(self, value):
         self._mode = value
+
     @property
     def file_path(self):
         return self._file_path
+
     @file_path.setter
     def file_path(self, value):
         self._file_path = value
+
     @property
     def file_name(self):
         return self._file_name
+
     @file_name.setter
     def file_name(self, value):
         self._file_name = value
+
     @property
     def delimiter(self):
         return self._delimiter
+
     @delimiter.setter
     def delimiter(self, value):
         self._delimiter = value
+
     @property
     def max_entries(self):
         return self._max_entries
+
     @max_entries.setter
     def max_entries(self, value):
         self._max_entries = value
 
+
+class LogStrategy(Enum):
+    FIXED_SLICES = "FixedSlices"
+    ONLY_CHANGES = "OnlyChanges"
+
 class Logger:
-    def __init__(self, file_path: str, file_name: str, append: bool = False,
+    def __init__(self, file_path: str, file_name: str, append: str,
                  delimiter: str = ";", max_entries: int = 1000,
                  strategy: LogStrategy = LogStrategy.FIXED_SLICES,
                  time_format: str = "%Y-%m-%d %H:%M:%S"):
         self.file_path = file_path
         self.file_name = file_name
-        self.append = append
+        self.writemode = append
         self.delimiter = delimiter
         self.max_entries = max_entries
         self.strategy = strategy
         self.time_format = time_format
-        self.log_entries = []
+
 
         os.makedirs(file_path, exist_ok=True)
         self.full_path = os.path.join(file_path, file_name)
@@ -121,51 +135,60 @@ class Logger:
             f"Logfile     : {self.full_path}\n"
             f"Pfad        : {self.file_path}\n"
             f"Dateiname   : {self.file_name}\n"
-            f"Anhängen    : {self.append}\n"
+            f"Schreibmodus: {self.writemode}\n"
             f"Trennzeichen: {self.delimiter}\n"
             f"Max-Einträge: {self.max_entries}\n"
             f"Strategie   : {self.strategy.value}\n"
             f"Zeitformat  : {self.time_format}\n"
-            f"Einträge    : {len(self.log_entries)}"
+            
         )
+    
+    def write_header(self, log_file):
+        with open(log_file, "w", newline="") as f:
+            start_time = datetime.now().strftime(self.time_format)
+            f.write(f"Filename: {self.file_name}, Start-Time: {start_time}\n")
+            writer = csv.writer(f, delimiter=self.delimiter)
+            writer.writerow(["Zeit", "Land", "Ort","Status", "Temperatur °C", "Feuchtigkeit %", "Wetterbeschreibung"])
 
-    def read_logfile(self):
-        if os.path.exists(self.full_path):
-            with open(self.full_path, 'r') as log_file:
-                lines = log_file.readlines()
-                return [line.strip() for line in lines if line.strip()] #ergibt eine saubere Liste ohne leere Zeilen
+ # -------- Logging --------
+
+
+    def logging(self, level, message):
+        print(f'mess: {message}')
+        #now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        now = datetime.now().strftime(self.time_format)
+        entry_line = f"{now},{level},{message}\n"
+        file = self.full_path
+
+        if os.path.exists(file) ==False:
+            print("Datei existiert nicht")
+            self.write_header(file)
+
         else:
-            print(f"Datei {self.full_path} existiert nicht.")
-            return []
+            if len(file) == 0:
+                # Datei ist leer, Header schreiben
+                self.write_header(file)
+            if self.writemode == "w":
+                self.write_header(file)
 
-    def refresh_log_entries(self):
-        self.log_entries = self.read_logfile()
+            with open(file, "r") as f:            
+                lines = f.readlines()
 
-    def _write_header(self, log_file):
-        start_time = datetime.now().strftime(self.time_format)
-        header_line = f"Filename: {self.file_name}, Start-Time: {start_time}"
-        title_line = self.create_title()
-        log_file.write(header_line + "\n")
-        log_file.write(title_line + "\n")
+            # ab Zeile 3 sind Datenzeilen
+            header = lines[:2]
+            if self.writemode == "w":
+                data = []
+                data.insert(0, entry_line)
+            else:
+                data = lines[2:self.max_entries+2]  # +2 wegen Headerzeilen
+                data.insert(0, entry_line)
 
-    def _title(self):
-        title = ["Zeit", "Land", "Ort", "Temperatur °C", "Feuchtigkeit %", "Wetterbeschreibung"]
-        return self.delimiter.join(title)
-
-    def add_entry(self, entry: str):
-        if len(self.log_entries) >= self.max_entries:
-            self.log_entries.pop(0)
-        self.log_entries.append(entry)
-
-    def write_log(self):
-        
-        mode = self
-        with open(self.full_path, mode) as log_file:
-            if os.path.getsize(self.full_path) == 0:
-                self._write_header(log_file)
-            for entry in self.log_entries:
-                log_file.write(entry + "\n")
-
+            with open(file, "w", newline="") as f:
+                f.writelines(header)
+                f.writelines(data)
+    
+#-----
+ 
     @property
     def delimiter(self):
         return self._delimiter
@@ -174,27 +197,33 @@ class Logger:
         self._delimiter = value
     @property
     def max_entries(self):
-        return self._max_entries
+        return int(self._max_entries)
     @max_entries.setter
     def max_entries(self, value):
         self._max_entries = value
 
+
 # Absoluten Pfad zur Datei config.json ermitteln
+# config-datei öffnen und laden
+
 script_dir = os.path.dirname(os.path.abspath(__file__))  # Pfad zum aktuellen Skript
 config_path = os.path.join(script_dir, '..', 'config.json')  # Eine Ebene höher weil config.json dort liegt
+if os.path.exists(config_path) == True:
+    try:
+        with open(config_path, 'r') as f: #mit with wird die Datei automatisch geschlossen
+            config = json.load(f)
+        print("Konfiguration erfolgreich geladen.")
+    except FileNotFoundError:
+        print(f"Datei nicht gefunden: {config_path}")
+    except json.JSONDecodeError:
+        print("Fehler beim Parsen der config.json")
 
-# config-datei öffnen und laden
-try:
-    with open(config_path, 'r') as f: #mit with wird die Datei automatisch geschlossen
-        config = json.load(f)
-    print("Konfiguration erfolgreich geladen.")
-except FileNotFoundError:
+    end_point_url = config["WeatherPro"]["Endpoint_URL"]
+    appId = config["WeatherPro"]["ApiKey"]
+else: #nur zu Testzwecken
     print(f"Datei nicht gefunden: {config_path}")
-except json.JSONDecodeError:
-    print("Fehler beim Parsen der config.json")
-
-end_point_url = config["WeatherPro"]["Endpoint_URL"]
-appId = config["WeatherPro"]["ApiKey"]
+    end_point_url = "https://api.openweathermap.org/data/2.5/weather"
+    appId = "9acc5ac99ab484b08d9c8f9e3b6dcccb"
 
 def user_input():
     userInputs = userInput()
@@ -217,6 +246,8 @@ def user_input():
     mode = input("Datenlogger neu oder anhaengen [n,*a]?")
     if mode == "":
         mode = default_mode
+    elif mode == 'n':
+        mode = 'w' 
     userInputs.mode = mode
 
     default_polling= 5
@@ -231,7 +262,6 @@ def user_input():
         ort = ort_default
     ort_encoded = urllib.parse.quote(ort)
     userInputs.ort = ort_encoded
-
     language_default = 'de'
     language = input(f"Sprache [*{language_default},el,en,fr,hr,it]:")
     if language == '':
@@ -262,16 +292,13 @@ def user_input():
     userInputs.max_entries = max_entries
 
     return userInputs
-def createTitle(separator):
-    title = ["Zeit", "Land","Ort", "Temperatur °C", "Feuchtigkeit %", "Wetterbeschreibung"]
-    title = separator.join(title)
-    return title
+
 def createLogLine(separator, jsonResponse):
     #separator = ";"
     zeit = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     ort = jsonResponse["name"]
     land = jsonResponse["sys"]["country"]
-    temperatur= f'{jsonResponse["main"]["temp"]}'
+    temperatur=f'{jsonResponse["main"]["temp"]}'
     feuchtigkeit = f'{jsonResponse["main"]["humidity"]}'
     wetterbeschreibung = jsonResponse["weather"][0]["description"]
     log_line = [zeit, land,ort, temperatur, feuchtigkeit, wetterbeschreibung]
@@ -296,17 +323,14 @@ if __name__ == '__main__':
     
     userInputs = user_input()
     print(userInputs)
-
     log = Logger(userInputs.file_path, userInputs.file_name, append=(userInputs.mode), delimiter=";", max_entries=userInputs.max_entries, strategy=LogStrategy.FIXED_SLICES)
-    log.max_entries = 999
     print(log)
     sleep(2)
     orte = ['Balgach', 'Gams', 'Feldkirch', 'New York', 'London', 'Tokio']
     max_requests = 2
     counter = 0
     doloop = True
-    while doloop:
-        
+    while doloop:        
         sleep(int(userInputs.polling_time))
         for ort in orte:
             request_url = f'{end_point_url}?q={ort}&units={userInputs.units}&lang={userInputs.language}&appid={appId}'
@@ -316,10 +340,15 @@ if __name__ == '__main__':
             if code == 200:
                 jsonResponse = json.loads(responseStr)
                 print("Erfolgreiche Anfrage")
+                tmpTemp = jsonResponse["main"]["temp"]
+                tmpTemp = round(tmpTemp, 1)
+                jsonResponse["main"]["temp"] = tmpTemp
+
                 print(f'Aktuelle Temperatur in {jsonResponse["name"]}: {jsonResponse["main"]["temp"]}')
-                log.log_entries.append(createLogLine(";", jsonResponse))
-                log.write_log()
+                line = createLogLine(";", jsonResponse)
+                log.logging("Info",line)
             else:
+                log.logging("Error",f'Fehler bei der Anfrage. Code: {code}, Meldung: {meldung}')
                 print(f'Fehler bei der Anfrage. Code: {code}, Meldung: {meldung}')
         counter += 1
         print(f'Anzahl Requests: {counter}')
